@@ -2,7 +2,7 @@
 
 ## Liens
 
-Contrairement au Html où l'utilisation de balises était nécessaire, en MarkDown, il suffit de *placer le texte du lien entre crochets suivis de l'URL entre parenthèses*. Voyons comment cela fonctionne en pratique, avec la page d'OpenClassRooms qui est notre principale source d'inspiration. Je tape le texte "OpenClassRooms" entre [] et j'insère le lien entre parenthèses juste après : [texte] (Lien). Notez qu'un espace a été mis entre les crochets et les parenthèses, autrement un lien aurait été affiché et vous n'auriez pas pû voir le descriptif. Exemple : [OpenClassRooms](https://openclassrooms.com/courses/redigez-en-markdown).
+Contrairement au Html où l'utilisation de balises était nécessaire, en MarkDown, il suffit de *placer le texte du lien entre crochets suivis de l'URL entre parenthèses*. Voyons comment cela fonctionne en pratique, avec la page d'OpenClassRooms qui est notre principale source d'inspiration. Je tape le texte "OpenClassRooms" entre [] et j'insère le lien entre parenthèses juste après : `[texte](Lien)`. Notez qu'un espace a été mis entre les crochets et les parenthèses, autrement un lien aurait été affiché et vous n'auriez pas pû voir le descriptif. Exemple : [OpenClassRooms](https://openclassrooms.com/courses/redigez-en-markdown).
 
 ## Images 
 
