@@ -10,4 +10,4 @@ Pour ce qui est des images, le principe est le même, à la seule différence qu
 
 ## Images animées
 
-Afin de vous exprimer notre gratitude, notre dino-dabeur tenait à vous faire une démonstration des images animées en MarkDown, à nouveau le principe est exactement le même que pour les images normales ![dinosaure](https://media.giphy.com/media/l3zoKeX8bMG5sMP4s/giphy.gif)
+Afin de vous exprimer notre gratitude, notre dino-dabeur tenait à vous faire une démonstration des images animées en MarkDown, à nouveau le principe est exactement le même que pour les images normales : ![dinosaure](https://media.giphy.com/media/l3zoKeX8bMG5sMP4s/giphy.gif)
