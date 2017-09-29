@@ -8,8 +8,8 @@ Exercice Markdown et Github en collaboration
 ## Contributors:
 
 * Ilias
-* Kevin
 * Jawad
+* Kevin
 * Marie-Ange
 
 ## Description
