@@ -3,7 +3,7 @@ Exercice Markdown et Github en collaboration
 
 ## Cet exercice est sponsorisé par la formation BeCode
 
-![texte alternatif] (https://cdn.prezly.com/80/cc75a0f29911e6917b8f65c4ef6191/Capture.jpg "logo BeCode")
+![logo BeCode] (https://cdn.prezly.com/80/cc75a0f29911e6917b8f65c4ef6191/Capture.jpg "logo BeCode")
 
 ## Contributors:
 
