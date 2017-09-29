@@ -15,9 +15,8 @@ Pour ce qui est des images, le principe est le même, à la seule différence qu
 Afin de vous exprimer notre gratitude, notre dino-dabeur tenait à vous faire une démonstration des images animées en MarkDown, à nouveau le principe est exactement le même que pour les images normales : ![dinosaure](https://media.giphy.com/media/l3zoKeX8bMG5sMP4s/giphy.gif)
 >>>>>>> origin/Jawad
 
-# Les différentes listes
+# Les différentes listes   
 Cette partie traitera de l'ajout de listes à puces, de listes numériques ainsi que de listes imbriquées.
-=======
 Nous commencerons par expliquer comment les ajouter de manière très simple suivis d'un exemple en image pour chaque listes.
 
 ## 1. La liste à puces:
