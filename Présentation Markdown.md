@@ -1,4 +1,4 @@
-###Navigation
+### Navigation
 [README.md](https://github.com/bouchat-marieange/exercice-markdown/blob/master/README.md)
 [Présentation Markdown.md](https://github.com/bouchat-marieange/exercice-markdown/blob/master/Pr%C3%A9sentation%20Markdown.md)
 [Mémento Markdown.md](https://github.com/bouchat-marieange/exercice-markdown/blob/master/M%C3%A9mento%20Markdown.md)
@@ -51,4 +51,11 @@ Il existe également une extension pour Chrome, Firefox et Safari qui converti l
 
 ## La syntaxe Markdown
 
+<<<<<<< HEAD
 Pour vous familiariser avec les commandes à utiliser en Markdown, veuillez vous référer au fichier de se repository appelé "Mémento Markdown".
+=======
+Pour vous familiariser avec les commandes à utiliser en Markdown, veuillez vous référer au fichier de se repository appelé ["Mémento Markdown"](https://github.com/bouchat-marieange/exercice-markdown/blob/master/M%C3%A9mento%20Markdown.md).
+
+
+
+>>>>>>> 48c4dd4a3c431e810634f3f5033eb0121c3d0e79
