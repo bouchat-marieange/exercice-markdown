@@ -46,7 +46,7 @@ Il existe également une extension pour Chrome, Firefox et Safari qui converti l
 
 ## La syntaxe Markdown
 
-Pour vous familiariser avec les commandes à utiliser en Markdown, veuillez vous référer au fichier de se repository appelé "Mémento Markdown".
+Pour vous familiariser avec les commandes à utiliser en Markdown, veuillez vous référer au fichier de se repository appelé ["Mémento Markdown"](https://github.com/bouchat-marieange/exercice-markdown/blob/master/M%C3%A9mento%20Markdown.md).
  
 
 
