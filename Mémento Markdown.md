@@ -174,13 +174,13 @@ Les commentaires en html s'écrive comme ceci : `<!-- texte en commentaire -->;`
 
 **Exemple**:
 
- <script type="text/javascript">
-  alert("Hello!");
- </script>
+    <script type="text/javascript">
+      alert("Hello!");
+    </script>
 
 <!-- Commentaire html -->
 
- <script type="text/javascript" >
-  window.alert("Hello World!");
-  alert("Hello World!");
- </script>
+    <script type="text/javascript" >
+      window.alert("Hello World!");
+      alert("Hello World!");
+    </script>
