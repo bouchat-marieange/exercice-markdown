@@ -1,3 +1,8 @@
+###Navigation
+[README.md](https://github.com/bouchat-marieange/exercice-markdown/blob/master/README.md)
+[Présentation Markdown.md](https://github.com/bouchat-marieange/exercice-markdown/blob/master/Pr%C3%A9sentation%20Markdown.md)
+[Mémento Markdown.md](https://github.com/bouchat-marieange/exercice-markdown/blob/master/M%C3%A9mento%20Markdown.md)
+
 ## Le Markdown c'est quoi?
 
 Le Markdown est à la fois un langage créer en 2004 par John Gruber et Aaron Swarts, qui permet d'éditer et de formater du texte en utilisant un script de conversion texte -> HTML.Bref, c'est une sorte de manière de mettre un texte en forme comme on pourrait le faire avec HTMl mais avec des commandes très simplifiée et intuitive. C'est également un format de fichier ".md" ou .markdown".
@@ -5,7 +10,7 @@ Le Markdown est à la fois un langage créer en 2004 par John Gruber et Aaron Sw
 
 ## Usage
 
-On utilise principalement le Markdown pour mettre en forme rapidement les fichiers de documentation d'un projet, généralement appelé readme.md. 
+On utilise principalement le Markdown pour mettre en forme rapidement les fichiers de documentation d'un projet, généralement appelé readme.md.
 
 Pour respecter la philosophie du système, on écrit un texte qui soit lisible sans interpréteur en mode texte. Les éléments de syntaxe du MarkDown permette déja un meilleur lisibilité du texte même lorsqu'il ne sont pas encore convertit visuellement. C'est le navigateur web qui s'occupe de la conversion du langage markdown en HTML et met le texte en forme. Le but principal de ce langage est donc de pouvoir rédiger rapidement et intuitivement un texte mis en forme pour en facilité la lecture et la lisibilité.
 
@@ -47,6 +52,3 @@ Il existe également une extension pour Chrome, Firefox et Safari qui converti l
 ## La syntaxe Markdown
 
 Pour vous familiariser avec les commandes à utiliser en Markdown, veuillez vous référer au fichier de se repository appelé "Mémento Markdown".
- 
-
-
