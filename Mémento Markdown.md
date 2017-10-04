@@ -174,9 +174,9 @@ Les commentaires en html s'écrive comme ceci : `<!-- texte en commentaire -->;`
 
 **Exemple**:
 
-    <script type="text/javascript">
+    `<script type="text/javascript">
       alert("Hello!");
-    </script>
+    </script>`
 
 <!-- Commentaire html -->
 
